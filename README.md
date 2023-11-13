@@ -1,6 +1,6 @@
 # StockPredictorLSTM
 
-StockPredictorLSTM is a Python project that utilizes Long Short-Term Memory (LSTM) networks for predicting stock prices. The project fetches historical stock data, preprocesses it, trains an LSTM model, and makes predictions.
+StockPredictorLSTM is a comprehensive Python project designed to leverage the power of Long Short-Term Memory (LSTM) networks for accurate stock price predictions. This project seamlessly integrates various steps, starting from the retrieval of historical stock data to preprocessing, training of an LSTM model, and ultimately making precise predictions. The carefully crafted pipeline ensures a thorough analysis of the stock data and employs sophisticated machine learning techniques to enhance forecasting accuracy.
 
 ## Table of Contents
 

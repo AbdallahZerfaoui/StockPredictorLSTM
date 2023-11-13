@@ -55,3 +55,9 @@ The project is structured as follows:
 - **Stock_Fetch_V2.py:** Module for fetching and processing historical stock data.
 - **Price_Forecast.py:** Module containing the PriceForecastEngine class for LSTM forecasting.
 - **requirements.txt:** List of Python dependencies.
+
+# Contribution 
+If you want to contribute to this project, please follow the Contributing Guidelines.
+
+# Licence
+This project is licensed under the MIT License.

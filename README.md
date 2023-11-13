@@ -39,7 +39,3 @@ StockPredictorLSTM is a Python project that utilizes Long Short-Term Memory (LST
    ```bash
    git clone https://github.com/your-username/StockPredictorLSTM.git
    cd StockPredictorLSTM
-   ```bash
-
-   ```bash
-   pip install -r requirements.txt

@@ -51,7 +51,7 @@ StockPredictorLSTM is a Python project that utilizes Long Short-Term Memory (LST
 # Project Structure
 The project is structured as follows:
 
-**- main.py:** Main script to execute the forecasting pipeline.
-**- Stock_Fetch_V2.py:** Module for fetching and processing historical stock data.
+- **main.py:** Main script to execute the forecasting pipeline.
+- **Stock_Fetch_V2.py:** Module for fetching and processing historical stock data.
 **- Price_Forecast.py:** Module containing the PriceForecastEngine class for LSTM forecasting.
 **- requirements.txt:** List of Python dependencies.

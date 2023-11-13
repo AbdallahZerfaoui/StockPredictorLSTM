@@ -39,3 +39,6 @@ StockPredictorLSTM is a Python project that utilizes Long Short-Term Memory (LST
    ```bash
    git clone https://github.com/your-username/StockPredictorLSTM.git
    cd StockPredictorLSTM
+
+# Usage
+1. Fetch historical data and run the forecasting pipeline:
